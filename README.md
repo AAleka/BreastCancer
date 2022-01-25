@@ -1,7 +1,7 @@
 # Breast Cancer classification
 
 ## Medium article
-https://medium.com/@alnurito/breast-cancer-prediction-using-machine-learning-a8a5d216b3c1
+https://medium.com/@alnurito/breast-cancer-classification-using-machine-learning-989c09d5e65d
 
 ## Dataset
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
